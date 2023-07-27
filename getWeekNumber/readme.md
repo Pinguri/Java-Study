@@ -5,7 +5,8 @@
 <p>해당일이 해당월의 몇 주차인지 판단하는 기준은 해당일이 수요일보다 큰지 안큰지로 정한다.</p>
 
 <p>ex1)</p>
-<img src="https://github.com/Pinguri/WeekNumber/assets/138184563/c5375225-4821-455d-9a5d-3959c6bbe163">&nbsp;&nbsp;&nbsp;<img src="https://github.com/Pinguri/WeekNumber/assets/138184563/91d138db-7aa9-4e02-a58d-6109640ef5eb"><br/><br/>
+![image](https://github.com/Pinguri/Java-Study/assets/138184563/68170f3c-c1ed-42a5-a084-1b5ae41109ce)
+&nbsp;&nbsp;&nbsp;<img src="https://github.com/Pinguri/WeekNumber/assets/138184563/91d138db-7aa9-4e02-a58d-6109640ef5eb"><br/><br/>
 <p>2023년2월1일은 수요일이다. 해당 주의 수요일은 1일이다. 수요일을 포함하고 있으므로 2월1일은 2월1주차이다. 각 주는 일요일까지이므로 1월 30일 ~ 2월 5일까지는 2월1주차이다.</p>
 <p>2023년2월28일은 화요일이다. 해당 주의 수요일은 3월1일인데 수요일을 포함하고 있는 날이 3월로 넘어가므로 2월28일은 3월1주차이다. 각 주는 일요일까지이므로 2월 27일 ~ 3월 5일까지는 3월1주차이다. </p>
 <p>ex2)</p>
