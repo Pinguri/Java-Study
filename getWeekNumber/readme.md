@@ -5,7 +5,7 @@
 <p>해당일이 해당월의 몇 주차인지 판단하는 기준은 해당일이 수요일보다 큰지 안큰지로 정한다.</p>
 
 <p>ex1)</p>
-<img src="https://github.com/Pinguri/Java-Study/assets/138184563/68170f3c-c1ed-42a5-a084-1b5ae41109ce">
+<img src="https://github.com/Pinguri/Java-Study/assets/138184563/5f752727-0c76-4784-bc3f-77a79e41cd69">
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Pinguri/Java-Study/assets/138184563/a54d8ec2-03bb-42e3-91af-753055e901aa">
 <br/><br/>
